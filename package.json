@@ -1,0 +1,27 @@
+{
+  "name": "zcat",
+  "version": "1.0.0",
+  "description": "ZCAT Photo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tarkanozt/ZCAT.git"
+  },
+  "keywords": [
+    "photo",
+    "app",
+    "camera"
+  ],
+  "author": "Tarkan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tarkanozt/ZCAT/issues"
+  },
+  "homepage": "https://github.com/Tarkanozt/ZCAT#readme",
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
